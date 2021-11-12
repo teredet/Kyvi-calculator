@@ -13,11 +13,14 @@ git clone https://github.com/teredet/Kyvi-calculator
 Create a virtual environment and activate
 
     pip install virtualenv
-
     virtualenv envname
     envname\scripts\activate
 
+Install requirements
+
     cd Kyvi-calculator
     pip install -r requirements.txt
-    
+
+Run program
+
     python calculator.py
