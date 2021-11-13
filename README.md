@@ -13,7 +13,7 @@ git clone https://github.com/teredet/Kyvi-calculator
 * Create a virtual environment and activate
 ```Shell
     pip install virtualenv
-    virtualenv envname
+    python -m virtualenv envname
     envname\scripts\activate
 ```
 * Install requirements
