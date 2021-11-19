@@ -1,6 +1,8 @@
 # Kyvi-calculator
 
-Python calculator with UI
+Calculator written in Python. The user interface is written using the Kyvi library.
+
+In addition to standard arithmetic, the following tools are implemented: root of a number, square of a number, division without remainder, remainder of division.
 
 ![alt text](img/1.png) 
 ![alt text](img/2.png) 
